@@ -5,4 +5,5 @@ begin
     read (a);
     read (b);
     write (a*b)
+    // abc
 end.
